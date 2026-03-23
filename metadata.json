@@ -1,0 +1,5 @@
+{
+  "name": "IEEE Plagiarism Checker",
+  "description": "A professional tool for analyzing academic papers for plagiarism and IEEE citation compliance using Gemini AI.",
+  "requestFramePermissions": []
+}
